@@ -10,6 +10,7 @@ BetterMeteorites
 BetterShopMenu
 BiggerCraftables
 BiggerJunimoChest
+Bow
 BugNet
 BuildableLocationsFramework
 CarryChest
@@ -39,6 +40,7 @@ LuckSkill
 Magic
 ManaBar
 MoreBuildings
+MoreEnchantments
 MoreGiantCrops
 MoreGrassStarters
 MoreRings
